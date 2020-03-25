@@ -6,7 +6,7 @@ using System.IO;
 using System.Net;
 using System.Threading;
 
-namespace proxychecker
+namespace HTMLViewer
 {
     class Program
     {
